@@ -1,4 +1,8 @@
 _repo: Monsieur-Lecoq-v-2_48641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48641-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48641#Monsieur-Lecoq-v-2
 gutenberg_issued: '2015-04-05'
 gutenberg_type: Text
 identifiers:
